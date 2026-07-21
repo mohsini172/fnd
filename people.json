@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Jason Wolfe",
+    "Type": "Person",
+    "Contact Email": "jason.wolfe@piedpiper.com",
+    "Owns (Applications)": "Ariba",
+    "Is Expert In (Applications)": "Salesforce CRM",
+    "Is Expert In (Business Capabilities)": "Core Capabilities::Marketing::Marketing Analysis::Promotion Analysis",
+    "Reports To (People)": "Michael Gregory",
+    "Belongs To (Org Unit)": "MyOrg::Commercial",
+    "Owns (Org Unit)": "MyOrg::Commercial::Marketing"
+  },
+  {
+    "Name": "Magnus Holberg",
+    "Type": "Person",
+    "Contact Email": "magnus.holberg@piedpiper.com",
+    "Owns (Applications)": "Canvas",
+    "Is Expert In (Applications)": "Ariba",
+    "Is Expert In (Business Capabilities)": "Core Capabilities::Sales::Sales Orders::Sales Order Processing",
+    "Reports To (People)": "Oswald Pattison",
+    "Belongs To (Org Unit)": "MyOrg::Commercial",
+    "Owns (Org Unit)": "MyOrg::Commercial::Sales"
+  },
+  {
+    "Name": "Michael Gregory",
+    "Type": "Person",
+    "Contact Email": "rmichael.gregory@piedpiper.com",
+    "Owns (Applications)": "Sophos Endpoint Protection",
+    "Is Expert In (Applications)": "Canvas",
+    "Is Expert In (Business Capabilities)": "Supporting Capabilities::Integrated Risk Management (IRM)::Risk Management::Risk Tracking",
+    "Reports To (People)": "Anju Rao",
+    "Belongs To (Org Unit)": "MyOrg::Operations::IT",
+    "Owns (Org Unit)": "MyOrg::Operations::IT::IT Development"
+  }
+]
